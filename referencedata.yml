@@ -1,0 +1,4 @@
+boot:
+  admin:
+    client:
+      url: http://localhost:7777
